@@ -1,7 +1,7 @@
 ## 💫 About Me:<br>
-🚀 Working on Web Development and AI-based projects<br>
+🚀 Working on Web Development and AIML-based projects<br>
 🤝 Open to collaborating on real-time projects<br>
-☁️ Exploring Cloud and Networking technologies and looking for guidance<br>
+☁️ Exploring Cloud and Networking technologies<br>
 🎓 6th-semester Computer Science (AI) engineering student
 
 
