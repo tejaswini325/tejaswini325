@@ -5,10 +5,6 @@
 
 ### I build systems that learn, infer, and occasionally surprise me
 
-## About Me
-
-I'm a **Computer Science (AI)** undergrad at **KLE Technological University, Hubballi** (2022–2026), with a thing for building intelligent systems that solve real problems.
-
 
 ## Tech Stack
 
