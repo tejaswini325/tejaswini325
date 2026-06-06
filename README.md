@@ -22,7 +22,7 @@
 **Web & Backend**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,django&theme=dark" />
   </a>
 </p>
 
