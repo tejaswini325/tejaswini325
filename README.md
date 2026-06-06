@@ -1,15 +1,11 @@
-
----
-
 # Hi, I'm Tejaswini M V
-
 ### I build systems that learn, infer, and occasionally surprise me
 
+---
 
 ## Tech Stack
 
 **Languages**
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,java,cpp&theme=dark" />
@@ -17,7 +13,6 @@
 </p>
 
 **ML & AI**
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
@@ -25,7 +20,6 @@
 </p>
 
 **Web & Backend**
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask&theme=dark" />
@@ -33,27 +27,29 @@
 </p>
 
 **Databases & Tools**
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,linux&theme=dark" />
   </a>
 </p>
 
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [CARMEN-RAG++](https://github.com/tejaswini325/CARMEN-RAG) | Conflict-aware agentic RAG across 5 domains | LangChain, ChromaDB, Mistral-7B |
+| [FleetCore](https://github.com/tejaswini325/FleetCore) | Microservices fleet platform with observability stack | React, Docker, Prometheus, Grafana |
+| [OptiSettle](https://github.com/tejaswini325/OptiSettle) | Group expense tracker with JWT auth & load balancing | Node.js, SQLite, NGINX |
+
+---
+
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tejaswini325&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<!-- 
-  NOTE: github-readme-stats.vercel.app is permanently paused (Jan 2026).
-  To get working stats cards, fork the repo and deploy your own free Vercel instance:
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy to vercel.com with your GitHub PAT as env variable PAT_1
-  3. Replace YOUR-INSTANCE below with your Vercel app name
--->
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tejaswini325&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tejaswini325&layout=compact&theme=tokyonight&hide_border=true)
+---
 
 ## Connect
 
