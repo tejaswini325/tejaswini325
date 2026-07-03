@@ -35,15 +35,6 @@
 
 ---
 
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [CARMEN-RAG++](https://github.com/tejaswini325/CARMEN-RAG) | Conflict-aware agentic RAG across 5 domains | LangChain, ChromaDB, Mistral-7B |
-| [FleetCore](https://github.com/tejaswini325/FleetCore) | Microservices fleet platform with observability stack | React, Docker, Prometheus, Grafana |
-| [OptiSettle](https://github.com/tejaswini325/OptiSettle) | Group expense tracker with JWT auth & load balancing | Node.js, SQLite, NGINX |
-
----
 
 ## Stats
 
